@@ -1,6 +1,6 @@
 == README
 
-Это обячный примерный readme.
+Это корректированный ридми
 
 Things you may want to cover:
 
